@@ -23,3 +23,5 @@ fields:
 - type: file
   name: thumbnail
   label: thumbnail
+pages:
+- site/content/posts/best-laptop-for-gaming-the-new-i5-12th-generation-is-your-perfect-choice.mdx
